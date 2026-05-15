@@ -95,9 +95,9 @@ GROUP_REPOS = [
       "backend": "https://syntax-reborndev.com/",
       "frontend": "https://syntax-reborndev.com/",
       "monitoring": "https://monitor.syntax-reborndev.com/",
-      "stack": ["GO, SQLite"],
-      "documentation": [],
-      "sla": "",
+      "stack": ["GO", "PostgreSQL", "Prometheus", "Grafana", "Terraform", "Ansible", "Azure", "Digital Ocean","One.com", "Cloudflare", "Docker", "Nginx"],
+      "documentation": ["https://github.com/SyntaxDevopsSquad-SDS/docs"],
+      "sla": "https://github.com/SyntaxDevopsSquad-SDS/devops-syntaxsquad/tree/main/docs",
 }  
 ]
 
