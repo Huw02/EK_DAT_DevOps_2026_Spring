@@ -4,13 +4,15 @@
 
 **Deadline**: Before next class
 
+**Motivation**: Make your product attractive for possible investment opportunities.
+
 ---
 
 ## The task
 
-I have been contacted by a venture capital fund. Some of their investors have shown interest in becoming angel investors in your company. 
+I have been contacted by a venture capital fund who have shown interest in becoming angel investors in your company.
 
-They have requested a basic report on the KPIs of your application.
+They are requesting a quick 2 minute slides presentation on the KPIs of your application.
 
 * CPU load on the server.
 
@@ -22,4 +24,4 @@ They have requested a basic report on the KPIs of your application.
 
 * [Optional] Average amount of searches per day.
 
-Bring them to class next time and be prepared to answer how you calculated these values.
+Be ready to present it to the class next time and be prepared to answer how you calculated these values.
