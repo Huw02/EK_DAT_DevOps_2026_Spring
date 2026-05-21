@@ -25,9 +25,9 @@ GROUP_REPOS = [
     "backend": "https://ascsearch.dk",
     "frontend": "https://ascsearch.dk",
     "monitoring": "http://188.166.19.130:3000",
-    "stack": ["GO", "SQLite","Docker","Nginx",],
-    "documentation": [],
-    "sla": "",
+    "stack": ["GO", "PostGres","Docker","Nginx","Certbot","Prometheus","Alertmanager","Grafana"],
+    "documentation": ["https://github.com/ASCDevOps/ASC_whoknows/tree/master/documentation"],
+    "sla": "https://github.com/ASCDevOps/ASC_whoknows/blob/master/documentation/Service%20Level%20Agreement%20(SLA)/ASCSearch_SLA.pdf",
 }, 
 {
     "name": "ripmarkus",
