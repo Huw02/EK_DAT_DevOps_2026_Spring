@@ -4,7 +4,7 @@ Try out logging with the ELK stack.
 
 **Type**: Individual
 
-**Motivation**: This is a quick task. Just run the docker-compose up and check it out.
+**Motivation**: This is a quick task. Just run `docker compose up` and check it out.
 
 ---
 
@@ -21,7 +21,7 @@ https://github.com/docker/awesome-compose/tree/master/elasticsearch-logstash-kib
 
 If you are on a Mac then port `5000` is in use by AirPlay.
 
-You can change the exposed port to a different port. Change this part of the `docker-compose.yml` file:
+You can change the exposed port to a different port. Change this part of the `compose.yaml` file:
 
 ```yaml
     ports:

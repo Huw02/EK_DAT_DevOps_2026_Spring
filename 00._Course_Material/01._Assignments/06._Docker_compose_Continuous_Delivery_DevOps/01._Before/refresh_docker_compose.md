@@ -35,7 +35,7 @@ https://docs.docker.com/engine/storage/bind-mounts/
 
 ---
 
-## Check out the possible values for the `docker-compose.yml` file
+## Check out the possible values for the `compose.yaml` file
 
 Especially the `Services top-level element` section. 
 

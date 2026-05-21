@@ -2,7 +2,7 @@
 
 **Type**: Individual
 
-Check out the docker-compose setup for PostgreSQL and learn about ORMs and migration tools in python.
+Check out the Docker Compose setup for PostgreSQL and learn about ORMs and migration tools in python.
 
 ---
 
