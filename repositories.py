@@ -45,9 +45,9 @@ GROUP_REPOS = [
     "backend": "https://monkknows.dk",
     "frontend": "https://monkknows.dk",
     "monitoring": "http://20.91.203.235:3000",
-    "stack": ["Ruby", "Sinatra", "PostgreSQL", "Nginx", "Azure VM", "Docker", "GitHub Actions", "Let's Encrypt", "Prometheus", "Grafana"],
-    "documentation": [],
-    "sla": "",
+    "stack": ["Ruby", "Sinatra", "PostgreSQL", "Nginx", "Azure VM", "Docker", "GitHub Actions", "Let's Encrypt", "Prometheus", "Grafana", "Azure Function", "One.com", "Postman", "SonarCloud"],
+    "documentation": ["https://github.com/nasOps/MonkKnows/tree/main/docs"],
+    "sla": "https://github.com/nasOps/MonkKnows/blob/main/docs/sla.md",
 },
 {
     "name": "BaseJumpers",
