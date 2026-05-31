@@ -64,10 +64,10 @@ GROUP_REPOS = [
     "gitLinks": ["https://github.com/Knowledgeables/Knowledge"],
     "backend": "https://www.knowledgeable.one",
     "frontend": "https://www.knowledgeable.one",
-    "monitoring": "131.163.90.7",
+    "monitoring": "http://20.100.172.127/",
     "stack": ["Golang","Nginx", "Azure VM", "SQLlite, Docker, Knex.js, Certbot, Terraform, Ansible, Prometheus, Grafana, Loki,  Resend"],
     "documentation": [],
-    "sla": "",
+    "sla": "https://docs.google.com/document/d/1NhLQFGPfJCcwER58Z1wSI9g0LqDIFZJsppy_SH0HaXc/edit?usp=sharing",
 },
 {
     "name": "team36",
